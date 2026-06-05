@@ -13,47 +13,41 @@
 
 ---
 
-⚡ *Exploring the universe of code, web development, and intelligent systems.* ⚡
+⚡ *Harnessing the power of Autonomous Agents, AI Automation, and Intelligent Systems.* ⚡
 
 </div>
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on interesting projects involving **Blockchain** and **Face Detection**.
-- 📊 Experienced in Decision Support Systems (**Sistem Pendukung Keputusan / AHP**).
-- 💬 Ask me about Web Development, JavaScript, or Python.
+- 🚀 **Current Focus:** Sedang mengembangkan **Loker Merah Putih**, sebuah platform lowongan kerja masa depan yang bertenaga **Hermes Agent AI** untuk pencarian dan pemetaan karir yang lebih cerdas.
+- 🤖 **Passionate About:** Sangat senang mengulik **AI Automation**, mengintegrasikan LLM (Large Language Models), dan membangun sistem otomasi pintar guna mempermudah alur kerja.
+- 💡 **Core Interests:** Artificial Intelligence, Autonomous Agents, Web Development, dan Decentalized Technology.
 
 ---
 
-### 📊 GitHub Analytics & Top Skills
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=luqni&show_icons=true&theme=radical&hideline=true" alt="luqni stats" width="100%"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqni&layout=compact&theme=nightowl" alt="luqni top languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+### 🛠️ Tech Stack & AI Tools
+<p align="left">
+  <!-- AI & Automation -->
+  <img src="https://img.shields.io/badge/Hermes_Agent_AI-FF5722?style=for-the-badge&logo=openai&logoColor=white" alt="Hermes AI" />
+  <img src="https://img.shields.io/badge/AI_Automation-4CAF50?style=for-the-badge&logo=androidauto&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br/>
+  <!-- Programming & Core Web -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ---
 
 ### 📌 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luqni&repo=simple-blockchain&theme=dark" width="100%"/>
-    </td>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luqni&repo=tugas-spk-ahp&theme=nightowl" width="100%"/>
-    </td>
-    <td width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=luqni&repo=Pendeteksi-Wajah&theme=nightowl" width="100%"/>
-    </td>
-  </tr>
-</table>
+| Project Name | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Loker Merah Putih** | *[Active Project]* Platform lowongan kerja cerdas terintegrasi dengan **Hermes Agent AI** untuk mencocokkan kandidat secara otomatis. | `Python` `AI Agent` `Hermes` | *In Progress* |
+| 🧮 **new-tugas-spk-ahp** | Aplikasi Sistem Pendukung Keputusan (SPK) berbasis web dengan implementasi metode *Analytical Hierarchy Process* (AHP). | `PHP` `JavaScript` `HTML` | [View Repo](https://github.com/luqni/new-tugas-spk-ahp) |
+| 🌐 **simple-blockchain** | Repositori eksperimen untuk mempelajari cara kerja teknologi blockchain dan desentralisasi data. | `JavaScript` | [View Repo](https://github.com/luqni/simple-blockchain) |
+| 📈 **Sentiment-analysis-php** | Program analisis sentimen berbasis teks berbahasa Indonesia. Sangat relevan dengan kecintaan kamu di bidang pemrosesan AI. | `PHP` | [View Repo](https://github.com/luqni/Sentiment-analisys-php-in-indonesia) |
 
 ---
 
